@@ -85,4 +85,12 @@ streamlit run app.py
 The application accepts text input and predicts
 the corresponding news category.
 
+<img width="818" height="671" alt="image" src="https://github.com/user-attachments/assets/8cad1cef-0307-4410-a2e6-7b4234f48111" />
+
+<img width="627" height="847" alt="image" src="https://github.com/user-attachments/assets/92275abc-c572-46c7-9a64-dcf0a594c981" />
+
+<img width="648" height="852" alt="image" src="https://github.com/user-attachments/assets/07504638-a814-47fb-b1d4-712b3fecaf2a" />
+
+
+
 
