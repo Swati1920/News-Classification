@@ -1,0 +1,12 @@
+{
+    "best_model": "Naive Bayes",
+    "categories": [
+        "comp.graphics",
+        "rec.sport.baseball",
+        "sci.space",
+        "talk.politics.misc"
+    ],
+    "total_documents": 3624,
+    "training_documents": 2899,
+    "testing_documents": 725
+}
