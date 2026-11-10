@@ -85,6 +85,4 @@ streamlit run app.py
 The application accepts text input and predicts
 the corresponding news category.
 
-## Author
 
-Swati Singh
